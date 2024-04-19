@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e389aebc568238f4db57ab49cee2e110, type: 3}
+  m_Name: CharacterEquipmentConfig
+  m_EditorClassIdentifier: 
+  _characterEquipmentSlots:
+  - _equipmentType: 0
+    _itemConfig: {fileID: 11400000, guid: 648ce5f25f94853488d8bf7647abf081, type: 2}
+  - _equipmentType: 1
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 2
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 3
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 4
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 5
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 6
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 7
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 7
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 8
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 8
+    _itemConfig: {fileID: 0}
+  - _equipmentType: 9
+    _itemConfig: {fileID: 0}
